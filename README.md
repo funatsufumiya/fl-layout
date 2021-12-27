@@ -90,7 +90,7 @@ B N M , . /
 QWERTY配列における
 
 ```text
-  8 9
+    8 9
 Y U I O P
 H J K L ;
 N M , .
